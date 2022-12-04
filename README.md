@@ -1,5 +1,5 @@
 # Registro de Entidades em JAVA
 
-Projeto de POO em java, com o objetivo em aprendizagem.
+Programa criado com o intuido a aprendizagem de POO
 
-Contribuidores: [https://github.com/viniciuscruz1]
+Contribuidores do projeto: [Vinicius Cruz](https://github.com/viniciuscruz1)
